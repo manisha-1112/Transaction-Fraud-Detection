@@ -72,7 +72,7 @@ Evaluated models using:
 
 ---
 
-## 📈 Visualizations Included
+## Visualizations Included
 - Fraud vs Non-Fraud distribution  
 - Transaction amount distributions  
 - Correlation heatmap of features  
